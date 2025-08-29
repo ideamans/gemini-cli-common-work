@@ -82,7 +82,7 @@ Gemini CLI は以下のいずれかの方法で利用できます：
 
 ## 動作の様子
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ovPyi44V1sE?si=1tGWGFa6pfK2Fopg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/67eeWJhO4vQ?si=qNwx3yrjSI4qnzBO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## このデモが示すこと
 
